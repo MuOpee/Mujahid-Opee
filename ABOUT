@@ -1,4 +1,12 @@
 # Mujahid-Opee
+body {
+  background-image: url('https://cdn.discordapp.com/attachments/951617301818540093/1239817967370240000/2.png?ex=66444df6&is=6642fc76&hm=a059f0725f2580fa97cd70f8817f0619b3484f7f2f61fc6e11025d694aeab36c&');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
 This repository houses DM website, a comprehensive suite of digital marketing tools designed to enhance online presence and engagement. It offers solutions for SEO optimization, content marketing, social media strategies, and analytics tracking.
 
 **Key Features:**
