@@ -1,18 +1,17 @@
-# Mujahid-Opee
-body {
-  background-image: url('https://cdn.discordapp.com/attachments/951617301818540093/1239817967370240000/2.png?ex=66444df6&is=6642fc76&hm=a059f0725f2580fa97cd70f8817f0619b3484f7f2f61fc6e11025d694aeab36c&');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-
-This repository houses DM website, a comprehensive suite of digital marketing tools designed to enhance online presence and engagement. It offers solutions for SEO optimization, content marketing, social media strategies, and analytics tracking.
-
-**Key Features:**
-- SEO tools to improve search engine rankings
-- Content scheduling and management for various platforms
-- Detailed analytics for data-driven decision making
-- User-friendly interfaces for efficient workflow
-
-
+<!DOCTYPE html>
+<html>
+<head>
+  MUJAHID HOSSAIN OPEE
+  <div class="contact-info">
+    opee@workmail.com<br>
+    +880 17 42 74110
+</head>
+<body>
+<p dir="auto"><a href="https://www.instagram.com/free_shaam/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://digimopee.wordpress.com/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" alt="Website" data-canonical-src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&amp;logo=internet&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mujahidopee/" rel="nofollow"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/mujahid.opee"  rel="nofollow"><img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" alt="Whatsapp" data-canonical-src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://wa.me/message/O5SJINILAPSBE1"  rel="nofollow"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=Whatsapp&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp logo" alt="Whatsapp" data-canonical-src="https://img.shields.io/badge/Whatsapp-0077B5?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+</p>
+</body>
+</html>
